@@ -41,4 +41,4 @@ A growth mindset is all about seeing setbacks as opportunities for growth. 3 rem
 
 Hi, my name is __Cailum__ and I live in Liverpool but I'm originally from the Peak District! 
 I'm 23 and have lived in Liverpool for 5 years now. I love all things music and my favourite thing to do is go to gigs and festivals with my mates. Some of my favourite artists include Jack Johnson, Lana Del Rey, Shy FX and The Stone Roses.
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.collater.al%2Fen%2Fchandler-holding-ur-fav-albums-instagram-profile%2F&psig=AOvVaw1zdhGgbDF6eQhm4IKRW21n&ust=1694519581701000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCID5u7-_ooEDFQAAAAAdAAAAABAE" alt="music" width="200" height="200"/>
+<img src="https://www.collater.al/wp-content/uploads/2020/05/chandler-holding-ur-fav-album-collater.al-003-1024x1024.jpg" alt="music" width="200" height="200"/>
