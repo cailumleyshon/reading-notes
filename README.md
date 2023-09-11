@@ -1,30 +1,20 @@
 # Reading Notes 
 
-## These are my reading notes.
+## Concept of 'Growth Mindset':
 
-I have just learned about markdown!
+A growth mindset is the belief that someone's abilities, intelligence, and qualities are not fixed, but can be developed through dedication and hard work. People with a growth mindset embrace challenges, learn from failure, and persist in the face of obstacles. This mindset encourages a love of learning and a focus on personal development.
+A growth mindset is all about seeing setbacks as opportunities for growth. 3 reminders to sustain a growth mindset would be:
 
-Here are some cool things you can do :
+- Embrace challenges and use them as opportunity
+- Learn from failure and use that knowledge to improve
+- Stay positive and remain a 'can-do' attitude.
 
-- Lists
-- Headings
-- Code blocks
-- Nested list items
-- Nested codeblocks
-- Links
-- Table
-- Quotes
-- Images
-- Emphasise text
-- Checklists
-- Emojis
-- Internal links
+## 5 Different Features of Markdown:
 
-Here are some cool things we can make with markdown:
+- Headings - 'hash' symbol
+- Lists - using 'dash' or numbers
+- Links - [for example](<https://github.com>)
+- Emphasis - using **'asterixes'** and __'underscores'__
+- Images - using exclamation mark followed by square brackets and a URL link!
 
-- Dictionaries
-- Documentation
-- To do lists
-- Articles
-- Recipes
-- Instructions / guides
+
