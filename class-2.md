@@ -3,10 +3,10 @@
 - - - - - - - - - - - - - - - - - - - - - - 
 ## "What are four important features to look for in a text editor?"
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-**1. Syntax Highlighting:** Helps identify code elements with color.
-**2. Extensibility:** Supports a large number of plugins or extensions for customization (i.e. Emmets abbreviation).
-**3. Code Completion:** Accelerates coding by suggesting and completing code snippets.
-**4. Cross-Platform:** Works on multiple operating systems for flexibility.
+-**1. Syntax Highlighting:** Helps identify code elements with color.
+-**2. Extensibility:** Supports a large number of plugins or extensions for customization (i.e. Emmets abbreviation).
+-**3. Code Completion:** Accelerates coding by suggesting and completing code snippets.
+-**4. Cross-Platform:** Works on multiple operating systems for flexibility.
 
 ## "What do the following commands do?"
 - - - - - - - - - - - - - - - - - - - -
