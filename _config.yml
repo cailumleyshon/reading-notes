@@ -1,4 +1,11 @@
-title: Welcome to my Jekyll Theme
+title: Reading Notes
 theme: jekyll-theme-cayman
-
-
+description: Showcasing my work during the TechEducator Full-Stack MERN Bootcamp
+css: |
+  body {
+    background-color: #1f1f1f;
+    color: #ffffff;
+  }
+  a {
+    color: #bb86fc;
+  }
