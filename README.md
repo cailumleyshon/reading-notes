@@ -8,6 +8,15 @@
 ## Class Pages
 - ### Week 1
     - [Class 1](<./class-1.md>)
+    - [Class 2](<./class-2.md>)
+    - [Class 3](<./class-3.md>)
+    - [Class 4](<./class-4.md>)
+    - [Class 5](<./class-5.md>)
+    - [Class 6](<./class-6.md>)
+    - [Class 7](<./class-7.md>)
+    - [Class 8](<./class-8.md>)
+    - [Class 9](<./class-9.md>)
+    - [Class 10](<./class-10.md>)
 
 ## Concept of 'Growth Mindset':
 
