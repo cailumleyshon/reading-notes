@@ -11,7 +11,7 @@ Markdown is favored over WYSIWYG editors for its *versatility* and *compatibilit
 
 ## "What symbol will create a heading in Markdown?"
 - - - - - - - - - - - - - - - - - - - - - - - - - - -
-```Markdown
+```
 #
 ```
 In Markdown, the '#' symbol is used to create headings, with one '#' for the largest and up to six for the smallest.
@@ -19,26 +19,26 @@ In Markdown, the '#' symbol is used to create headings, with one '#' for the lar
 ## "When making text bold or italicized for emphasis, it is best practice to use which symbol?"
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Markdown applications have inconsistent handling of underscores within words. For better compatibility, use asterisks to emphasize or bold text within a word.
-```Markdown
+```
 **This** is an example
 ```
 
 ## "How do you create a link with Markdown?"
 - - - - - - - - - - - - - - - - - - - - - - - -
 To generate a hyperlink, enclose the link's display text in square brackets, such as [Duck Duck Go], and immediately follow it with the URL enclosed in parentheses, like [this](<https://duckduckgo.com>).
-```Markdown
+```
 Here is an [example](<https://github.com>)
 ```
 
 ## "What are the three symbols you can use to create an unordered (bulleted) list with Markdown?"
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
-```Markdown
+```
 -
 ```
-```Markdown
+```
 *
 ```
-```Markdown
+```
 +
 ```
