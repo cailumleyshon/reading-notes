@@ -15,12 +15,13 @@
     - [Class 8 - Operators and Loops](<https://cailumleyshon.github.io/reading-notes/class-8>)
     - [Class 9 - Career Coaching](<https://cailumleyshon.github.io/reading-notes/class-9>)
     - [Class 10 - Exam](<https://cailumleyshon.github.io/reading-notes/class-10>)
+ - - - - - - - - - - - - - 
 
 ## 🔖 GitHub
 - - - - - - -
 
 <img src="https://download.logo.wine/logo/GitHub/GitHub-Logo.wine.png" alt="logo" width="48" height="30"/> [Attached here](<https://github.com/cailumleyshon>) is my GitHub profile, give me a follow! 😜
-
+- - - - - - - - - - - 
 
 ## 🔖 Concept of 'Growth Mindset':
 - - - - - - - - - - - - - - - - - - -
@@ -32,10 +33,12 @@ A growth mindset is all about seeing setbacks as opportunities for growth. 3 rem
 - Stay positive and remain a 'can-do' attitude.
 
 <img src="https://edsurge.imgix.net/uploads/post/image/12467/mind_as_muscle-1565189295.jpg?auto=compress%2Cformat&w=2800&h=1134&fit=crop" alt="Growth Mindset" width="300" height="150"/>
+- - - - - - - - - - - - - - - - - - - - 
 
 ## 🔖 Introduction about myself...
-
+- - - - - - - - - - - - - - - - - - - - -
 Hi, my name is __Cailum__ and I live in Liverpool but I'm originally from the Peak District! 
 I'm 23 and have lived in Liverpool for 5 years now. I love all things music and my favourite thing to do is go to gigs and festivals with my mates. Some of my favourite artists include Jack Johnson, Lana Del Rey, Shy FX and The Stone Roses.
 
 ![Music](<https://www.collater.al/wp-content/uploads/2020/05/chandler-holding-ur-fav-album-collater.al-003-1024x1024.jpg>)
+- - - - - - - - - - - - - - - - - - - - - -
