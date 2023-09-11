@@ -7,7 +7,8 @@
 - **2. Extensibility:** Supports a large number of plugins or extensions for customization (i.e. Emmets abbreviation).
 - **3. Code Completion:** Accelerates coding by suggesting and completing code snippets.
 - **4. A variety of themes:** Reduces eye strain during long coding or writing sessions.
-- - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - - - - - 
 
 ## "What do the following commands do?"
 - - - - - - - - - - - - - - - - - - - -
