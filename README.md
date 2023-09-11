@@ -7,7 +7,7 @@
 
 ## Class Pages
 - ### Week 1
-    - [Class 1](<https://cailumleyshon.github.io/reading-notes/class-1/>)
+    - [Class 1](<./class-1.md>)
 
 ## Concept of 'Growth Mindset':
 
