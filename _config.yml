@@ -3,6 +3,4 @@ description: Showcasing my work during the TechEducator Full-Stack MERN Bootcamp
 url: https://cailumleyshon.github.io
 theme: jekyll-theme-cayman
 remote_theme: jekyll/minimal
-plugins:
-  - jekyll-seo-tag
-  - jekyll-toc
+
