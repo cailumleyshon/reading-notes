@@ -2,7 +2,7 @@
 
 ## Class Pages
 - ### Week 1
-    - [Class 1](<https://cailumleyshon.github.io/reading-notes/week_1_class_1_>)
+    - [Class 1](<https://cailumleyshon.github.io/reading-notes/week_1_class_1/>)
 
 ## Concept of 'Growth Mindset':
 
