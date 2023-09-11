@@ -25,6 +25,5 @@ Hi, my name is __Cailum__ and I live in Liverpool but I'm originally from the Pe
 I'm 23 and have lived in Liverpool for 5 years now. I love all things music and my favourite thing to do is go to gigs and festivals with my mates. Some of my favourite artists include Jack Johnson, Lana Del Rey, Shy FX and The Stone Roses. <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.collater.al%2Fen%2Fchandler-holding-ur-fav-albums-instagram-profile%2F&psig=AOvVaw3CCFnXoYVZhFhuy3U_0dju&ust=1694516689889000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIDhz9y0ooEDFQAAAAAdAAAAABAR" alt="music" width="150" height="150"/>
 
 
-[Attached here](<https://github.com/cailumleyshon>) is my GitHub profile, check it out! <img src="https://download.logo.wine/logo/GitHub/GitHub-Logo.wine.png" alt="logo" width="50" height="50"/>
-
+<img src="https://download.logo.wine/logo/GitHub/GitHub-Logo.wine.png" alt="logo" width="75" height="50"/> [Attached here](<https://github.com/cailumleyshon>) is my GitHub profile, check it out!
 
