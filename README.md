@@ -19,4 +19,9 @@ A growth mindset is all about seeing setbacks as opportunities for growth. 3 rem
 - Emphasis - using **'asterixes'** and __'underscores'__
 - Images - using exclamation mark followed by square brackets and a URL link in brackets!
 
+# Introduction about myself...
+
+Hi, my name is __Cailum__ and I live in Liverpool but I'm originally from the Peak District! 
+I'm 23 and have lived in Liverpool for 5 years now. I love all things music and my favourite thing to do is go to gigs and festivals with my mates. Some of my favourite artists include Jack Johnson, Lana Del Rey and The Stone Roses. [Attached here](<https://github.com/cailumleyshon>) is my GitHub profile, check it out!
+
 
