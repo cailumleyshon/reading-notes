@@ -1,8 +1,13 @@
 # Reading Notes 
 
+## GitHub
+
+<img src="https://download.logo.wine/logo/GitHub/GitHub-Logo.wine.png" alt="logo" width="75" height="50"/> [Attached here](<https://github.com/cailumleyshon>) is my GitHub profile, check it out! 🖤
+
+
 ## Class Pages
 - ### Week 1
-    - [Class 1](<https://cailumleyshon.github.io/reading-notes/week_1_class_1/>)
+    - [Class 1](<https://cailumleyshon.github.io/reading-notes/class-1/>)
 
 ## Concept of 'Growth Mindset':
 
@@ -27,6 +32,3 @@ A growth mindset is all about seeing setbacks as opportunities for growth. 3 rem
 
 Hi, my name is __Cailum__ and I live in Liverpool but I'm originally from the Peak District! 
 I'm 23 and have lived in Liverpool for 5 years now. I love all things music and my favourite thing to do is go to gigs and festivals with my mates. Some of my favourite artists include Jack Johnson, Lana Del Rey, Shy FX and The Stone Roses.
-
-<img src="https://download.logo.wine/logo/GitHub/GitHub-Logo.wine.png" alt="logo" width="75" height="50"/> [Attached here](<https://github.com/cailumleyshon>) is my GitHub profile, check it out!
-
