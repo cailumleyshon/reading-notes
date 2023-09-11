@@ -1,5 +1,9 @@
 # Reading Notes 
 
+## Class Pages
+- ### Week 1
+    - Class 1
+
 ## Concept of 'Growth Mindset':
 
 A growth mindset is the belief that someone's abilities, intelligence, and qualities are not fixed, but can be developed through dedication and hard work. People with a growth mindset embrace challenges, learn from failure, and persist in the face of obstacles. This mindset encourages a love of learning and a focus on personal development.
