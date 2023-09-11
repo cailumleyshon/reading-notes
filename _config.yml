@@ -1,7 +1,7 @@
 title: Reading Notes
 description: Showcasing my work during the TechEducator Full-Stack MERN Bootcamp
 url: https://cailumleyshon.github.io
-theme: jekyll-theme-forty
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
   - jekyll-toc
