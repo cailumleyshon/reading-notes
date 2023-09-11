@@ -22,6 +22,9 @@ A growth mindset is all about seeing setbacks as opportunities for growth. 3 rem
 # Introduction about myself...
 
 Hi, my name is __Cailum__ and I live in Liverpool but I'm originally from the Peak District! 
-I'm 23 and have lived in Liverpool for 5 years now. I love all things music and my favourite thing to do is go to gigs and festivals with my mates. Some of my favourite artists include Jack Johnson, Lana Del Rey and The Stone Roses. [Attached here](<https://github.com/cailumleyshon>) is my GitHub profile, check it out!
+I'm 23 and have lived in Liverpool for 5 years now. I love all things music and my favourite thing to do is go to gigs and festivals with my mates. Some of my favourite artists include Jack Johnson, Lana Del Rey, Shy FX and The Stone Roses. ![Me](<https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fchandler-bing-hugging-a-record&psig=AOvVaw05Nj4QfuPfvq-o6Zeehczy&ust=1694516251082000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJD6uYuzooEDFQAAAAAdAAAAABAE>)
+
+
+[Attached here](<https://github.com/cailumleyshon>) is my GitHub profile, check it out! ![GitHub icon](<https://download.logo.wine/logo/GitHub/GitHub-Logo.wine.png>)
 
 
