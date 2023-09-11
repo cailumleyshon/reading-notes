@@ -9,7 +9,7 @@ A growth mindset is all about seeing setbacks as opportunities for growth. 3 rem
 - Learn from failure and use that knowledge to improve
 - Stay positive and remain a 'can-do' attitude.
 
-<img src="https://edsurge.imgix.net/uploads/post/image/12467/mind_as_muscle-1565189295.jpg?auto=compress%2Cformat&w=2800&h=1134&fit=crop" alt="Growth Mindset" width="200" height="200"/>
+<img src="https://edsurge.imgix.net/uploads/post/image/12467/mind_as_muscle-1565189295.jpg?auto=compress%2Cformat&w=2800&h=1134&fit=crop" alt="Growth Mindset" width="150" height="150"/>
 
 ## 5 Different Features of Markdown:
 
