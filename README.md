@@ -6,7 +6,7 @@
 <img src="https://download.logo.wine/logo/GitHub/GitHub-Logo.wine.png" alt="logo" width="48" height="30"/> [Attached here](<https://github.com/cailumleyshon>) is my GitHub profile, give me a follow! 😜
 
 
-## 🔖 Class Pages
+## 🔖 Class Content
 - - - - - - - - - -
 - ### Week 1
     - [Class 1 - Learning Markdown](<https://cailumleyshon.github.io/reading-notes/class-1>)
@@ -30,14 +30,6 @@ A growth mindset is all about seeing setbacks as opportunities for growth. 3 rem
 - Stay positive and remain a 'can-do' attitude.
 
 <img src="https://edsurge.imgix.net/uploads/post/image/12467/mind_as_muscle-1565189295.jpg?auto=compress%2Cformat&w=2800&h=1134&fit=crop" alt="Growth Mindset" width="300" height="150"/>
-
-## 🔖 5 Different Features of Markdown:
-
-- Headings - 'hash' symbol
-- Lists - using 'dash' or numbers
-- Links - [for example](<https://github.com>)
-- Emphasis - using **'asterixes'** and __'underscores'__
-- Images - using exclamation mark followed by square brackets and a URL link in brackets!
 
 ## 🔖 Introduction about myself...
 
