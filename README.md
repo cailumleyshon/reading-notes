@@ -13,8 +13,6 @@
     - [Class 6 - Dynamic web pages with JavaScript](<https://cailumleyshon.github.io/reading-notes/class-6>)
     - [Class 7 - Programming with JavaScript](<https://cailumleyshon.github.io/reading-notes/class-7>)
     - [Class 8 - Operators and Loops](<https://cailumleyshon.github.io/reading-notes/class-8>)
-    - [Class 9 - Career Coaching](<https://cailumleyshon.github.io/reading-notes/class-9>)
-    - [Class 10 - Exam](<https://cailumleyshon.github.io/reading-notes/class-10>)
  
  - - - - - - - - - - - - - - - - - - - 
 
