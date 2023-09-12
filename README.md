@@ -10,7 +10,7 @@
 ## 🔖 Class Content
 - - - - - - - - - -
 - ### Code 102 Reading Notes
-    - [Class 1 - Learning Markdown](<https://cailumleyshon.github.io/reading-notes/class-1>)
+    - [Class 1 - Learning Markdown](<https://cailumleyshon.github.io/reading-notes/code-102-reading-notes/class-1>)
     - [Class 2 - The Coder's Computer](<https://cailumleyshon.github.io/reading-notes/class-2>)
     - [Class 3 - Revisions and the Cloud](<https://cailumleyshon.github.io/reading-notes/class-3>)
     - [Class 4 - Structure web pages with HTML](<https://cailumleyshon.github.io/reading-notes/class-4>)
