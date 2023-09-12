@@ -7,8 +7,7 @@
 HTML, or **Hypertext Markup Language**, is a standard language for creating web pages. It's used to structure content on the internet, defining elements like headings, paragraphs, links, and images. HTML allows browsers to render web content consistently and enables developers to create and share information effectively across the web.
 - - - - - - - - - - - - - - - - - - - -
 
-
-## "What are the 3 main parts of an HTML element?"
+## "What are the 3 main parts of an HTML element?"
 - - - - - - - - - - - - - - - - - - - - - - - - - -
 An HTML element consists of three main parts: an opening tag, content, and a closing tag. The opening tag, enclosed in angle brackets, defines the element's type. The content is the information or text enclosed between the opening and closing tags. The closing tag mirrors the opening tag but includes a forward slash before the element name. Together, these parts structure and define how the content should be displayed in a web browser, ensuring proper rendering and functionality on web pages.
 - - - - - - - - - - - - - - - - - - - - - - 
