@@ -13,7 +13,7 @@
     - [Class 1 - Learning Markdown](<https://cailumleyshon.github.io/reading-notes/code-102-reading-notes/class-1>)
     - [Class 2 - The Coder's Computer](<https://cailumleyshon.github.io/reading-notes/code-102-reading-notes/class-2>)
     - [Class 3 - Revisions and the Cloud](<https://cailumleyshon.github.io/reading-notes/code-102-reading-notes/class-3>)
-        - [Lab 3 - Stretch Goals ](<https://cailumleyshon.github.io/reading-notes/code-102-reading-notes/labs3-page>)
+    - [Lab 3 - Stretch Goals ](<https://cailumleyshon.github.io/reading-notes/code-102-reading-notes/lab3-page>)
     - [Class 4 - Structure web pages with HTML](<https://cailumleyshon.github.io/reading-notes/code-102-reading-notes/class-4>)
     - [Class 5 - Design web pages with CSS](<https://cailumleyshon.github.io/reading-notes/code-102-reading-notes/class-5>)
     - [Class 6 - Dynamic web pages with JavaScript](<https://cailumleyshon.github.io/reading-notes/code-102-reading-notes/class-6>)
