@@ -94,7 +94,7 @@ Finally, you would **push** changes to a remote repository. We will discuss remo
 Example:
 
 ```
-~ git push origin master
+~ git push
 ```
 This command pushes changes from the local “main” branch to the remote repository named “origin” and will be updated in GitHub.
 
